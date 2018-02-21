@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Fairen/seed-component.svg?branch=master)](https://travis-ci.org/Fairen/seed-component)
+[![Coverage Status](https://coveralls.io/repos/github/Fairen/seed-component/badge.svg?branch=master)](https://coveralls.io/github/Fairen/seed-component?branch=master)
 # @fairen/components
 
 A Angular module seed for Components
