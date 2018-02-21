@@ -5,7 +5,7 @@ A Angular module seed for Components
 ## Installation 
 ```sh
 npm install @fairen/components --save
-yarn add @fairen/componentsmodels
+yarn add @fairen/components
 bower install @fairen/components --save
 ```
 ## Usage
