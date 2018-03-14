@@ -1,6 +1,6 @@
 {
   "name": "@fairen/components",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An Angular Module with one component exported to provide a basic seed for transversal developments requiring shared components.",
   "license": "MIT",
   "scripts": {
