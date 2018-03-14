@@ -18,11 +18,11 @@ before_deploy:
 deploy:
   provider: npm
   api_key:
-    secure: LNhOShdfoTjH5U0YIMF3GKTVV6icm6pcs9cdJcvPHhQnyXJqnT9UTYw0D+i/t7zNIfJHG/fA/fUvP/GT3iXxL3PWsfUaT2T7aXfd1ntvWYwGWkf+kBb4Y3yAd0UjBickpB+L/+7JjQeA6Qynwv4FesztJV3U
+    secure: "LNhOShdfoTjH5U0YIMF3GKTVV6icm6pcs9cdJcvPHhQnyXJqnT9UTYw0D+i/t7zNIfJHG/fA/fUvP/GT3iXxL3PWsfUaT2T7aXfd1ntvWYwGWkf+kBb4Y3yAd0UjBickpB+L/+7JjQeA6Qynwv4FesztJV3U
     29bdGhOHpFa9W+vNlONCiRnhSMmQIRiVXCMRNXvADyyOtqHIdBS0OL99V+TRThhv1TtXqIxM6PHYcVjDUP3JU5ilyNeFN6BKc2kgyCyLmtSpvayRGf3NsDpQ0C4FHIPY7uraSRfXxPuzPPWrrnftP/3P39pzcSEaf56id6W
     Q/6jVVfeLQBv1r5h03M3dCoeBZONw/t2jhyFqJ9CXnEWb3s1VHwc6sAdhGg2WAHCGDUlpxzynxfzm2V79VpAyxLfDmCIBGp3AEDKcQ6Vufg9U/oLPEpgbIgpWHeKlD0D/2pmdvt/aGdFjf4Svq8k88+ynFVyc0yZtU9TqrV
     dxMqGnbd8oLKDFCaIxyAxXbxsKvOga/kD9c3CryfUGbtaoBUzwxTsmjcR6F74SzyOhSjRFpyXeZV0UB77Wswm+NyC6mTUrPJJpv57tynwd9uL6e5nbIauc6fCqpiJ8tRGkjqf3GjTrJrmmuVYtf4vRkCAR89xh6+Xe3IcNu
-    hzoUupHlMxtrUEc/PFW7Ih9hQY=
+    hzoUupHlMxtrUEc/PFW7Ih9hQY="
   skip_cleanup: true
   on:
     branch: master
