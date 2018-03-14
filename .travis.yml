@@ -16,6 +16,7 @@ before_deploy:
   
 deploy:
   provider: npm
+  email: "vacher.mathieu@gmail.com"
   api_key:
     secure: "LNhOShdfoTjH5U0YIMF3GKTVV6icm6pcs9cdJcvPHhQnyXJqnT9UTYw0D+i/t7zNIfJHG/fA/fUvP/GT3iXxL3PWsfUaT2T7aXfd1ntvWYwGWkf+kBb4Y3yAd0UjBickpB+L/+7JjQeA6Qynwv4FesztJV3U
     29bdGhOHpFa9W+vNlONCiRnhSMmQIRiVXCMRNXvADyyOtqHIdBS0OL99V+TRThhv1TtXqIxM6PHYcVjDUP3JU5ilyNeFN6BKc2kgyCyLmtSpvayRGf3NsDpQ0C4FHIPY7uraSRfXxPuzPPWrrnftP/3P39pzcSEaf56id6W
