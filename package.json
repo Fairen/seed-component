@@ -1,16 +1,16 @@
 {
   "name": "@fairen/components",
   "version": "0.0.2",
+  "description": "An Angular Module with one component exported to provide a basic seed for transversal developments requiring shared components.",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
-    "test": "ng test --browsers PhantomJS --single-run --code-coverage",
-    "lint": "ng lint",
-    "e2e": "ng e2e",
-    "packagr": "ng-packagr -p ng-package.json",
-    "publish": "npm run packagr && npm publish dist --access=public"
+    "ci:build": "ng build",
+    "ci:test": "ng test --browsers PhantomJS --single-run --code-coverage",
+    "ci:lint": "ng lint",
+    "ci:e2e": "ng e2e",
+    "ci:packagr": "ng-packagr -p ng-package.json"
   },
   "private": false,
   "dependencies": {

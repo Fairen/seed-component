@@ -2,7 +2,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/Fairen/seed-component/badge.svg?branch=master)](https://coveralls.io/github/Fairen/seed-component?branch=master)
 # @fairen/components
 
-A Angular module seed for Components
+An Angular Module with one component exported to provide a basic seed for transversal developments requiring shared components.
 
 ## Installation 
 ```sh
